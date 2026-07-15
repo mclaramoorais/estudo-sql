@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# Variáveis de ambiente
+.env
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configurações do VS Code
+.vscode/
+
+# Configurações do JetBrains
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
